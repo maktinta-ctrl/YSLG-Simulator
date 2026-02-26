@@ -1,0 +1,5 @@
+{
+  "name": "Yoga Source LG",
+  "description": "A high-fidelity simulator for the YSLG REV K2 HVAC control script, featuring interactive schedules, real-time state tracking, and color-coded temperature visualization.",
+  "requestFramePermissions": []
+}
